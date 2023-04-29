@@ -1,0 +1,158 @@
+/* img{
+    width:400px;
+    border: 2px;
+    border-color: black;
+}
+
+button{
+    color: black;
+} */
+
+/* 
+ body{
+    background: saddlebrown;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+}  */
+
+
+
+
+
+/* .main{
+    margin-top: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+} 
+.photo{
+    width: 300px;
+    display:block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.field{
+    width:400px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}  */
+
+/* button{
+    margin-top: 10px;
+    text-align: center;
+} */
+
+ /* body{
+    margin: 10px;
+} */
+
+/* .red{
+    background: #c71226;
+    height: 100px;
+    margin-bottom: 100px;
+}
+.blue{
+    background: #0d1b88;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+} 
+.green{
+    background: #397327;
+    height: 100px;
+} */
+
+
+/* Centering The elments */
+
+/* img{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+
+/* padding */
+
+/* .card{
+    color:#222222;
+    background-color: lightgray;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:200px;
+    padding-right: 200px;
+    border: 4px dotted red;
+    border-radius: 100px;
+} */
+
+
+/* challenge */
+
+/* button{
+    color: #0f1419;
+    border:1px solid #cfd9de;
+    border-radius: 20px;
+    padding: 8px 16px 8px 16px;
+    font-weight: bold;
+} */
+
+
+/* .nav-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.item{
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+} */
+
+
+/* BUSINESS CARD */
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar{
+    width:150px;
+}
+
+.card{
+    padding:20px;
+    display:flex;
+    justify-content: space-around;
+    width:400px;
+    margin: 0 auto;
+    background-color: #ddebf8;
+    color: #2b2839;
+    border-bottom: 5px solid #d8cefe;
+}
+
+.border-blue{
+    border:1px dotted blue;
+    text-align: center;
+}
+
+
+/* japanese flag */
+/* .red-flag{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    background: #BC002D;
+
+    margin: 40px auto 40px auto;
+} */
